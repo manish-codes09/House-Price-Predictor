@@ -26,6 +26,9 @@ This project price house predict using Machine Learing and XGBoost
   -Condition
   -StateZip
 
+  ## live demo
+  https://house-price-predictor-wujqeygn2dgqsaggkvv6hi.streamlit.app/
+
   ## model Performance
   R2 Score : [your value]
   MAE : [your value]
